@@ -1,1 +1,1 @@
-# Automation-testing-task-cucumber-selenium
+# Automation-testing-task
