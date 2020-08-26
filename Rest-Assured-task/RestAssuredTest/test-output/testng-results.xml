@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6686" started-at="2020-08-26T07:19:21 CEST" finished-at="2020-08-26T07:19:27 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6686" started-at="2020-08-26T07:19:21 CEST" finished-at="2020-08-26T07:19:27 CEST">
+      <class name="testsBE1andBE2.TestConfirmation">
+        <test-method status="PASS" signature="ConvertCurrencies()[pri:0, instance:testsBE1andBE2.TestConfirmation@35ef1869]" name="ConvertCurrencies" duration-ms="4097" started-at="2020-08-26T07:19:21 CEST" finished-at="2020-08-26T07:19:25 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConvertCurrencies -->
+        <test-method status="PASS" signature="confirmationTest()[pri:0, instance:testsBE1andBE2.TestConfirmation@35ef1869]" name="confirmationTest" duration-ms="2485" started-at="2020-08-26T07:19:25 CEST" finished-at="2020-08-26T07:19:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmationTest -->
+      </class> <!-- testsBE1andBE2.TestConfirmation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
